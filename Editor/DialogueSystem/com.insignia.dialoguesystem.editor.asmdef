@@ -1,0 +1,16 @@
+{
+    "name": "com.insignia.dialoguesystem.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:532e5cdd19144954cb7b35d74db2dff6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

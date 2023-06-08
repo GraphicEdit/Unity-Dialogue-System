@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9724fbc2864f4e845b82a4ca862e7f48, type: 3}
+  m_Name: AudioGraph
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: Audio
+  <Groups>k__BackingField: []
+  <Nodes>k__BackingField:
+  - <ID>k__BackingField: 3caa003a-5a62-4151-b9bc-edd92f95300a
+    <Name>k__BackingField: DialogueName
+    <Text>k__BackingField: Dialogue Text.
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 
+    <DialogueEvent>k__BackingField: {fileID: 0}
+    <DialogueAudio>k__BackingField: {fileID: 8300000, guid: 84960b754bec91c4f97b93c70293e33e, type: 3}
+    <GroupID>k__BackingField: 
+    <DialogueType>k__BackingField: 3
+    <Position>k__BackingField: {x: 419, y: 250}
+  <OldGroupNames>k__BackingField: []
+  <OldUngroupedNodeNames>k__BackingField:
+  - DialogueName
+  <OldGroupedNodeNames>k__BackingField:
+    list: []

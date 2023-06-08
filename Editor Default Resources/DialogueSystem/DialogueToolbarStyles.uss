@@ -1,0 +1,62 @@
+/* VISUAL ELEMENTS */
+Toolbar
+{
+    background-color: var(--dialogue-colors-window-dark-grey-1);
+    height: var(--dialogue-metrics-window-pixels-35);
+}
+
+TextField
+{
+    padding: var(--dialogue-metrics-window-pixels-4);
+}
+
+/* BUTTONS */
+Button
+{
+    background-color: var(--dialogue-colors-window-dark-grey-5);
+    border-color: var(--dialogue-colors-window-dark-grey-1);
+    margin: var(--dialogue-metrics-window-pixels-4);
+    max-height: var(--dialogue-metrics-window-pixels-25);
+}
+
+Button:hover
+{
+    background-color: var(--dialogue-colors-window-dark-grey-2);
+}
+
+Button:active
+{
+    background-color: var(--dialogue-colors-window-dark-grey-3);
+    color: var(--dialogue-colors-window-yellow);
+}
+
+/* BUILT IN */
+.unity-text-field__label
+{
+    padding: var(--dialogue-metrics-window-pixels-4);
+}
+
+TextField:focus > .unity-text-field__label
+{
+    color: var(--dialogue-colors-window-yellow);
+}
+
+.unity-text-field__input
+{
+    background-color: var(--dialogue-colors-window-dark-grey-1);
+    border-color: var(--dialogue-colors-window-dark-grey-6);
+    border-radius: var(--dialogue-metrics-window-pixels-4);
+    max-height: var(--dialogue-metrics-window-pixels-25);
+    min-width: var(--dialogue-metrics-window-pixels-120);
+    padding-left: var(--dialogue-metrics-window-pixels-6);
+}
+
+.unity-text-field__input:focus
+{
+    color: var(--dialogue-colors-window-yellow);
+}
+
+.dialogue-toolbar__button__selected
+{
+    color: var(--dialogue-colors-window-yellow);
+}
