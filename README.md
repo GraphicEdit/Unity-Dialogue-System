@@ -62,7 +62,7 @@ You can install this package in two ways.
 ### A) Asset Package
 The suggested way to install this package is through the Unity's Asset Package system, via the .unitypackage file.
 
--> **The GIT URL you need to download to the asset file is the following** (download and install into your project): **https://github.com/insignia-interactive/**
+-> **The GIT URL you need to download to the asset file is the following** (download and install into your project): **https://github.com/insignia-interactive/Unity-Dialogue-System/releases**
 
 For more info on how to install custom packages from th asset menu, please read here: https://docs.unity3d.com/Manual/AssetPackages.html
 
