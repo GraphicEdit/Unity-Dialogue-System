@@ -1,6 +1,18 @@
 # Dialogue System
 Dialogue System is a node based dialogue graph used to easily create dialogues within your Unity Projects. Project based on the dialogue system built by [Wafflus](https://github.com/Wafflus) : https://github.com/Wafflus/unity-dialogue-system/tree/master
 
+## Instructions
+You can install this package in two ways.
+### A) Asset Package
+The suggested way to install this package is through the Unity's Asset Package system, via the .unitypackage file.
+
+-> **The GIT URL you need to download to the asset file is the following** (download and install into your project): **https://github.com/insignia-interactive/Unity-Dialogue-System/releases**
+
+For more info on how to install custom packages from th asset menu, please read here: https://docs.unity3d.com/Manual/AssetPackages.html
+
+### B) Manual Install
+You can also install this package manually, by copying the source files directly into your project's assets folder.
+
 ## Features
 
 ### Creation of Single or Multiple choice text or audio nodes.
@@ -56,20 +68,6 @@ Allows the ease of choosing a starting dialogue for a runtime dialogue system th
 The Inspector allows the filtering of dialogues by grouped and non-grouped dialogues, as well as by dialogues that can be considered "starting" dialogues.
 
 ![Custom Inspector](https://imgur.com/7gqUHpR.gif)
-
-## Instructions
-You can install this package in two ways.
-### A) Asset Package
-The suggested way to install this package is through the Unity's Asset Package system, via the .unitypackage file.
-
--> **The GIT URL you need to download to the asset file is the following** (download and install into your project): **https://github.com/insignia-interactive/Unity-Dialogue-System/releases**
-
-For more info on how to install custom packages from th asset menu, please read here: https://docs.unity3d.com/Manual/AssetPackages.html
-
-### B) Manual Install
-You can also install this package manually, by copying the source files directly into your project's assets folder.
-
----
 
 ### Use
 After the installation, you can use the package features.
